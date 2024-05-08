@@ -163,7 +163,7 @@ st.write(
 )
 
 PROJECTS = {
-    "🏆 Supply Chain Optimization(PhD Works) - Summary of prjects and findings": "https://appcancer-logreg.streamlit.app/",
+    "🏆 Supply Chain Optimization(PhD Works) - Summary of prjects and findings": "https://dare-phd-project.streamlit.app/",
     "🏆 Real Time Breast cancer prediction and visualization  - Web App Developement": "https://appcancer-logreg.streamlit.app/",
     "🏆 LLM Finetuning for special problem - Web app development for PDFs ": "https://appcancer-logreg.streamlit.app/",
     "🏆 Reinforcement Learning  - Hybrid model to learn": "https://appcancer-logreg.streamlit.app/",
